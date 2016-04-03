@@ -1,2 +1,0 @@
-hadoop in action!
-
